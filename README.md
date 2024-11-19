@@ -34,7 +34,7 @@ A **Flutter-powered mobile application** that provides real-time cryptocurrency 
 - Pull-to-Refresh: RefreshIndicator for updating data on swipe.
 
 ## 🧑‍💻 Author
-## Dinupa
-## Passionate about learning Flutter and building awesome apps!
+- Dinupa
+- Passionate about learning Flutter and building awesome apps!
 
 
